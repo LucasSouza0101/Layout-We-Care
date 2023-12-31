@@ -83,27 +83,27 @@ button {
 }
 
 .header-link:hover {
-    opacity: 0.5;
+    opacity: .5;
 }
 
 .header-link:active {
-    opacity: 0.9;
+    opacity: .9;
 }
 
 .header-button:hover {
-    opacity: 0.5;
+    opacity: .5;
 }
 
 .header-button:active {
-    opacity: 0.9;
+    opacity: .9;
 }
 
 .main-button:hover {
-    opacity: 0.7;
+    opacity: .7;
 }
 
 .main-button:active {
-    opacity: 0.6;
+    opacity: .6;
 }
 
 
